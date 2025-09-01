@@ -1,2 +1,2 @@
 # stopcombikeys
-Blocking Unwanted Keyboard Shortcuts for Server Machines in Windows
+Blocking Unwanted Keyboard Shortcuts
